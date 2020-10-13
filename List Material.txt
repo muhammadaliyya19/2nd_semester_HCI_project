@@ -1,0 +1,43 @@
+Refrensi : www.sekolahkoding.com
+
+font:
+#Sans-serif
+-Baloo Thambi
+-Montserrat
+
+HTML:
+  Goal
+  AboutUs
+  Lapangan
+  CaraBooking
+  Payable
+  PayDone
+  CheckPayDone
+  PayReallyDone
+
+CSS:
+-Css_for_Home
+-Self_construct
+
+ID:
+-Css_for_Home : 
+ Kaki
+ Badan
+ Awal
+ Slogan
+ Tombol
+-Self_construct
+ Header_self
+ Kaki
+ UnderHead
+ Konten
+ 
+
+Class:
+-Css_for_Home : 
+ container
+ thumbnail
+
+-Self_construct :
+ is-avatar
+ 
